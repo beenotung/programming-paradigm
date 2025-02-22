@@ -1,4 +1,6 @@
-# Introduction to Programming Paradigms: Procedural, Functional, and OOP
+# 簡介三種程式範式: 過程式設計 (Procedural Programming)、函數式程式設計 (Functional Programming)、物件導向程式設計  (OOP)
+
+並淺談 MVC 架構。
 
 <p>
 <a style="display: flex; align-items: center"  href="https://www.youtube.com/watch?v=wWRZH6YfBvg">
@@ -6,10 +8,6 @@
 <span>Youtube Video</span>
 </a>
 </p>
-
-簡淺示範三種程式範式:<br>
-過程式設計、函數式程式(FP)、物件導向(OOP)<br>
-並淺談 MVC 架構。
 
 In this video, we briefly introduce 3 types of programming paradigms:
 
